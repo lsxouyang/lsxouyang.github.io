@@ -8,7 +8,7 @@
     <link href="/2022/04/30/hello/"/>
     <url>/2022/04/30/hello/</url>
     
-    <content type="html"><![CDATA[# helloworld> sh 1. da2. dsds]]></content>
+    <content type="html"><![CDATA[<h1 id="helloworld">helloworld</h1><blockquote><p>sh</p></blockquote><ol type="1"><li>da</li><li>dsds</li></ol><p><span class="math inline">\(f(x)=x^2\)</span></p><p><span class="math display">\[f(x)=x^2\]</span></p>]]></content>
     
     
     
